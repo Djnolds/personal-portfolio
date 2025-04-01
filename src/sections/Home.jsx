@@ -8,7 +8,7 @@ import resume from "../assets/resume.pdf";
 
 function Home() {
   return (
-    <section id="#home"
+    <section id="home"
       className="min-h-screen flex flex-col justify-center items-center lg:flex-row-reverse gap-9
       lg:gap-15 ">
 
